@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Minigame>
+  <type name="4player">
+    <game>
+      <name>Bowser's Big Blast</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Hexagon Heat</name>
+      <altname>Mushroom Mixup</altname>
+      <thumbnail>image goes here</thumbnail>
+      <altthumbnail>image goes here</altthumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Abandon Ship</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Bombs Away</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Bumper Balls</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Deep Sea Salvage</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Dizzy Dancing</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+    <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Honeycomb Havoc</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Hot Rope Jump</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Lava Tile Isle</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Mecha-Marathon</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Platform Peril</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Roll Call</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Shell Shocked</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Shy Guy Says</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Skateboard Scamper</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Slot Car Derby</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Sneak 'n' Snore</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Tile Driver</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Tipsy Tourney</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Toad in the Box</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Totem Pole Pound</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+  </type>
+  <type name ="2v2">
+    <game>
+      <name>Balloon Burst</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Bobsled Run</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>True</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Cake Factory</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+    <game>
+      <name>Destruction Duet</name>
+      <thumbnail>image goes here</thumbnail>
+      <scene>unity scene goes here</scene>
+      <multiwin>False</multiwin>
+      <collections>
+        <collection>marioparty2</collection>
+      </collections>
+    </game>
+  </type>
+  <type name="3v1">
+    
+  </type>
+
+</Minigame>

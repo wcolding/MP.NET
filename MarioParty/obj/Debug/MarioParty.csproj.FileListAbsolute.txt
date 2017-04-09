@@ -1,0 +1,6 @@
+c:\users\server\documents\visual studio 2015\Projects\MarioParty\MarioParty\bin\Debug\MarioParty.exe.config
+c:\users\server\documents\visual studio 2015\Projects\MarioParty\MarioParty\bin\Debug\MarioParty.exe
+c:\users\server\documents\visual studio 2015\Projects\MarioParty\MarioParty\bin\Debug\MarioParty.pdb
+c:\users\server\documents\visual studio 2015\Projects\MarioParty\MarioParty\obj\Debug\MarioParty.csprojResolveAssemblyReference.cache
+c:\users\server\documents\visual studio 2015\Projects\MarioParty\MarioParty\obj\Debug\MarioParty.exe
+c:\users\server\documents\visual studio 2015\Projects\MarioParty\MarioParty\obj\Debug\MarioParty.pdb

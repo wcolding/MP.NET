@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialog>
+<d_generic_toadshop>
+  <screen>Welcome! Want to buy something?</screen>
+  <shop>
+    <item>
+      <type>1</type>
+      <name>Mushroom</name>
+      <desc>Gives you a second diceblock to roll.</desc>
+      <cost>10</cost>
+    </item>
+  </shop>
+</d_generic_toadshop>
+  <d_generic_toadstar>
+    <screen>Congratulations,  you made it!</screen>
+    <question>
+      <string>Do you want to trade 20 coins for a star?</string>
+      <option>Yes</option>
+      <option>No</option>
+    </question>
+  </d_generic_toadstar>
+  <d_generic_toadstar_got>
+    <screen>Here you go!</screen>
+  </d_generic_toadstar_got>
+  <d_generic_toadstar_rejected>
+    <screen>Oh, um. I'm sorry to tell you this, but you don't have enough coins.</screen>
+    <screen>Please come back when you have 20 coins!</screen>
+  </d_generic_toadstar_rejected>
+  <d_generic_toadstar_cancel>
+    <screen>Oh ok. Well if you change your mind come back later!</screen>
+  </d_generic_toadstar_cancel>
+</Dialog>
